@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d6a7b98.css",
+    "main.js": "/static/js/main.3e4658b9.js",
+    "static/media/salut.gif": "/static/media/salut.2fb275a6c22b766bedb8.gif",
+    "static/media/star.gif": "/static/media/star.017c9236c509025493cf.gif",
+    "static/media/flag.gif": "/static/media/flag.340592f51b46d17f8697.gif",
+    "static/media/Missed.png": "/static/media/Missed.13ee8101bf8db0a6aa84.png",
+    "static/media/Complated.png": "/static/media/Complated.44f6440f3af43c0ae8bd.png",
+    "static/media/NftV2.png": "/static/media/NftV2.c8655f53a20759845c06.png",
+    "static/media/Nft_ref.png": "/static/media/Nft_ref.66a7aa9539bf8d44ff98.png",
+    "static/media/OctiesCosmo.png": "/static/media/OctiesCosmo.5402bf274e0b9f99e505.png",
+    "static/media/durov.png": "/static/media/durov.3bc78e352c22fad2b0d8.png",
+    "static/media/starship.png": "/static/media/starship.a4747b430409a7a22095.png",
+    "static/media/Reward_racketa.png": "/static/media/Reward_racketa.31c9ebed39a678b3a2a2.png",
+    "static/media/karandash_in_hand.png": "/static/media/karandash_in_hand.57fe5029d900a905f59d.png",
+    "static/media/MullerLight.ttf": "/static/media/MullerLight.351fcd30b12606e1a5de.ttf",
+    "static/media/MullerRegular.ttf": "/static/media/MullerRegular.7c0a0b947ca151baae3e.ttf",
+    "static/media/MullerMedium.ttf": "/static/media/MullerMedium.f279bb8e68f7c0b8b800.ttf",
+    "static/media/PLANET.png": "/static/media/PLANET.f75ae3da4e99b7628ec2.png",
+    "static/media/Reward_pass_ticket.png": "/static/media/Reward_pass_ticket.8598cc449279e0a118a5.png",
+    "static/media/AnyTapChanel.png": "/static/media/AnyTapChanel.a5d26272a4a10553bf7f.png",
+    "static/media/Invite_png.png": "/static/media/Invite_png.c07e7b8ad94e1660f89d.png",
+    "static/media/Text_soon.png": "/static/media/Text_soon.e1cfda8f4c5706ef4ea3.png",
+    "static/media/nick.png": "/static/media/nick.0053a5f2fd1f73b2254e.png",
+    "static/media/rosomaha.png": "/static/media/rosomaha.1e1fc5370a1f504fae68.png",
+    "static/media/dedpool.png": "/static/media/dedpool.6a85bae52e17adcf8123.png",
+    "static/media/Shapka2.png": "/static/media/Shapka2.3621fe54af984f707011.png",
+    "static/media/NFTmint.png": "/static/media/NFTmint.72a9a352b95d98b29be0.png",
+    "static/media/XCominity.png": "/static/media/XCominity.84cb82c9d93653e3cdba.png",
+    "static/media/TgComunity.png": "/static/media/TgComunity.923d1057cad4c9cfdf59.png",
+    "index.html": "/index.html",
+    "main.7d6a7b98.css.map": "/static/css/main.7d6a7b98.css.map",
+    "main.3e4658b9.js.map": "/static/js/main.3e4658b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d6a7b98.css",
+    "static/js/main.3e4658b9.js"
+  ]
+}

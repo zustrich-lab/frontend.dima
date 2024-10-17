@@ -1,0 +1,34 @@
+.Qr_Window {
+    z-index: 1000000;
+    background: black url(/src/IMG/All_Logo/CoinQr.png) repeat;
+    background-size:contain;
+    background-position-y: -5vh;
+    background-position-x: 5vh;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+.Qr_Window p{
+    font-size: 4vh;
+    margin-bottom: 2vh;
+    margin-top: 20vh;
+    border-radius: 50vh;
+}
+
+#QrOcties{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 35vh;
+    z-index: 1;
+}
+
+#QrTg{
+    height: 35%;
+    width: auto;
+    z-index: 2;
+}
